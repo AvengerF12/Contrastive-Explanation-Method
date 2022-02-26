@@ -1,0 +1,11 @@
+name: cem-tf1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - tensorflow=1.14.*
+  - keras
+  - h5py=2.10.0
+  - numpy=1.19.*
+  - numpy-base=1.19.*
+  - matplotlib=3.3.*
